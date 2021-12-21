@@ -19,7 +19,9 @@
 ​	사용한 자료들은 다음과 같습니다.
 
 ​	* [시군구/합계출산율, 모의 연령별 출산율](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B81A17&conn_path=I2)
+
 ​	* [아파트 매매 실거래가격지수 시군구 분기별](https://kosis.kr/statHtml/statHtml.do?orgId=408&tblId=DT_KAB_11672_S5)
+
 ​	* [시군구/인구동태건수 및 동태율(출생,사망,혼인,이혼)](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B8000I&conn_path=I2)
 
 ​	상관 관계 분석은 출산율과 아파트 가격 지수, 출산율과 이혼율의 두 가지 경우를 진행하였습니다.
