@@ -29,13 +29,13 @@
 
 ### 분석 결과 <a name="2"></a>
 
-![corr_tfr_rep](./img/Figure_1.png)
+!![Figure_1](https://user-images.githubusercontent.com/70771742/146911624-1a9b5ef9-28be-49b3-8611-32d190aee5bf.png)
 ​	2009년부터 2020년까지의 지역별 출산율과 아파트 가격 지수의 상관 관계는 -0.693으로 계산되며 두 수치는 유의미한 negetive 관계를 가지고 있음을 알 수 있었습니다.
 
-![corr_tfr_div](./img/Figure_2.png)
+![Figure_2](https://user-images.githubusercontent.com/70771742/146911618-0c479859-6cc7-47a8-a334-e2a40ee39496.png)
 ​	2000년부터 2020년까지의 지역별 출산율과 이혼율의 상관 관계는 0.172로 계산되며 두 수치 간 유의미한 관계를 발견할 수 없었습니다.
 
-![cuv_fit](./img/Figure_3.png)
+![Figure_3](https://user-images.githubusercontent.com/70771742/146911622-9b87bee6-4172-448a-b405-a19a34cb8d2f.png)
 ​	2000년부터 2020년까지의 전국 출산율에 대해 Curve Fitting을 이용하여 2035년까지의 출산율 동향을 예측해보고자 하였습니다. 출산율이 계속하여 감소하는 경우 0 미만의 값을 방지하기 위해 0으로 수렴할 수 있도록 다항함수를 지수함수와 함께 사용하였습니다. 또한 음수의 출산율을 방지하기 위해 RMS를 사용하여서 2&#42;exp와 3&#42;exp를 설계하였습니다.
 
 
