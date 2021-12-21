@@ -45,6 +45,7 @@
 ### 참조 <a name="3"></a>
 
 ​	지수함수를 이용한 curve fitting의 경우 다음의 내용을 참조하였습니다.
+
 ​	[How to do exponential and logarithmic curve fitting in Python](https://www.kite.com/python/answers/how-to-do-exponential-and-logarithmic-curve-fitting-in-python)
 
 
