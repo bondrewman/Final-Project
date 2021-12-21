@@ -29,7 +29,7 @@
 
 ### 분석 결과 <a name="2"></a>
 
-!![Figure_1](https://user-images.githubusercontent.com/70771742/146911624-1a9b5ef9-28be-49b3-8611-32d190aee5bf.png)
+![Figure_1](https://user-images.githubusercontent.com/70771742/146911624-1a9b5ef9-28be-49b3-8611-32d190aee5bf.png)
 ​	2009년부터 2020년까지의 지역별 출산율과 아파트 가격 지수의 상관 관계는 -0.693으로 계산되며 두 수치는 유의미한 negetive 관계를 가지고 있음을 알 수 있었습니다.
 
 ![Figure_2](https://user-images.githubusercontent.com/70771742/146911618-0c479859-6cc7-47a8-a334-e2a40ee39496.png)
